@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Hack18086</string>
+    <string name="title_home">Home</string>
+    <string name="title_hash_gallery">HashGallery</string>
+    <string name="title_hash_tweets">HashTweets</string>
+    <string name="title_user_tweets">UserTweets</string>
+    <string name="title_activity_gallery_tweet">GalleryTweetActivity</string>
+</resources>
