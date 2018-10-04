@@ -5,7 +5,7 @@ UseCases:
 1. Display trending hashtags.
 2. Display pictures from twitter based on entered hashtag.
 3. Display tweets based on entered hashtag.
-4. Diaplay tweets of particular user by username.
+4. Display tweets of particular user by username.
 
 Technology stack :
 - Android Studio
